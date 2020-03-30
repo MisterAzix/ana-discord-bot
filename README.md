@@ -1,2 +1,3 @@
 # ana-discord-bot
- The discord bot project.
+ My discord bot project.
+ You can test the bot here : https://discord.gg/6Qq5H47
